@@ -1,0 +1,13 @@
+Alt,Bar,Fri,Hun,Pat,Price,Rain,Res,Type,Est,Goal
+yes,no,no,yes,some,$$$,no,yes,french,0_10,yes
+yes,no,no,yes,full,$,no,no,thai,30_60,no
+no,yes,no,no,some,$,no,no,burger,0_10,yes
+yes,no,yes,yes,full,$,yes,no,thai,10_30,yes
+yes,no,yes,no,full,$$$,no,yes,french,>60,no
+no,yes,no,yes,some,$$,yes,yes,italian,0_10,yes
+no,yes,no,no,none,$,yes,no,burger,0_10,no
+no,no,no,yes,some,$$,yes,yes,thai,0_10,yes
+no,yes,yes,no,full,$,yes,no,burger,>60,no
+yes,yes,yes,yes,full,$$$,no,yes,italian,10_30,no
+no,no,no,no,none,$,no,no,thai,0_10,no
+yes,yes,yes,yes,full,$,no,no,burger,30_60,yes
